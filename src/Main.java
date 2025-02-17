@@ -1,3 +1,4 @@
+/** Yusuf Ibrahim 2/14/25 CSCI 1660 Excercise 5 **/
 import java.util.ArrayList;
 import java.util.Scanner;
 
